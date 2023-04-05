@@ -243,7 +243,7 @@ export const CardInfoData = styled.div`
 
     @media (max-width: 450px) {
       align-self: flex-start;
-  }
+    }
   }
 
   input {
