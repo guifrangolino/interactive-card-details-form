@@ -240,6 +240,10 @@ export const CardInfoData = styled.div`
     font-size: 12px;
     font-weight: bold;
     margin-bottom: 5px;
+
+    @media (max-width: 450px) {
+      align-self: flex-start;
+  }
   }
 
   input {
